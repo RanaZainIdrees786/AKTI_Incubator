@@ -5,12 +5,9 @@ PYTHON Tasks
 Calculator 
 BMI, Currency
 Grade Calcutor
-ATM 
+ATM Machine
 Number Guessing, ATM
 groceryItem [ CRUD ]
 Dictionary ATM
 Data filtering, Data Sorting, Searching [ for loop ] 
 Multiple Accounts [ List of dictionaries  with for loop ] + Login as an Admin  and login as a user [ search, add, delete ]
-
- 
-
